@@ -1,4 +1,4 @@
-# Content-Aware Image Retargeting
+# Content-Aware Image Retargeting Using the Combination of Seam Carving and Scaling
 
 This project implements a content-aware image retargeting algorithm using a combination of seam carving and scaling techniques. The algorithm adjusts the size of an image while preserving important content by using an energy map that combines depth, saliency, and gradient information.
 
